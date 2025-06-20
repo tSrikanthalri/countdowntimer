@@ -1,0 +1,29 @@
+body
+{
+   background-color:black ;
+   font-family:'roboto','Lato';
+}
+
+.container
+{
+    text-align:center;
+    margin-top:22px;
+}
+h1
+{
+    color:#fff;
+    font-size:40px;
+}
+
+button
+{
+   height:135px;
+   width:100px;
+   background-color: #fff;
+   font-size:40px;
+   border:none;
+   outline:none;
+   border-radius:2px;
+   margin-inline:11px;
+}
+
