@@ -2,7 +2,7 @@ function countDown(){
 
     setInterval(function(){
 
-    let destination = new Date("june 23, 2025, 10:00:00").getTime();
+    let destination = new Date("aug 26, 2025, 10:00:00").getTime();
     let current = new Date().getTime();
     let difference = destination-current;
 
